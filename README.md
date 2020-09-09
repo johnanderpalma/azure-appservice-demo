@@ -11,3 +11,5 @@ If you are interested in Azure App Service, see:
 
 - [Azure App Service](https://docs.microsoft.com/es-es/azure/app-service/overview).
 - [Create an ASP.NET Core web app in Azure](https://docs.microsoft.com/es-es/azure/app-service/quickstart-dotnetcore?pivots=platform-linux).
+- [App Service Staging Slots](https://docs.microsoft.com/es-es/azure/app-service/deploy-staging-slots).
+- [Blue green deployments](https://martinfowler.com/bliki/BlueGreenDeployment.html).
